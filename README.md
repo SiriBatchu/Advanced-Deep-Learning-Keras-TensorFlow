@@ -102,7 +102,6 @@ Colab : https://colab.research.google.com/drive/1EBxncB6OSp4dqFya6gkPRwi3IDBFxDP
 
 Execution in Colab: Load image data and use Fastai's ImageDataLoaders and aug_transforms to visualize augmented images. Train a model using Fastai's data augmentation pipeline and observe its performance.
 
-Youtube : https://www.youtube.com/watch?v=mTVf7BN7S8w
 
 # Part 2 : Advanced Keras Deep Learning Constructs
 
@@ -110,4 +109,4 @@ Dive deep into internal Keras customization using your own layers, training loop
 
 Colab : https://colab.research.google.com/drive/1zOMMF90Qy1_vu9r0gOgzp_7ezsd2W211
 
-Youtube : https://www.youtube.com/watch?v=Kmypbz3wVko
+Youtube : https://youtu.be/bxP4N4WVofQ
